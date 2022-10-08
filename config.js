@@ -154,7 +154,7 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://i.ibb.co/SX6jBp7/IMG-20221003-WA0064.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/SX6jBp7/IMG-20221003-WA0064.jpg'
+global.imagebot = 'https://telegra.ph/file/61f8972018f2b01ebb6f1.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/SX6jBp7/IMG-20221003-WA0064.jpg']
 global.fla = 'https://i.ibb.co/SX6jBp7/IMG-20221003-WA0064.jpg'
