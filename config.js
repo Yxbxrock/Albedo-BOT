@@ -156,8 +156,8 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 global.thumb = 'https://telegra.ph/file/61f8972018f2b01ebb6f1.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/61f8972018f2b01ebb6f1.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/SX6jBp7/IMG-20221003-WA0064.jpg']
-global.fla = 'https://i.ibb.co/SX6jBp7/IMG-20221003-WA0064.jpg'
+global.thumbs = ['https://telegra.ph/file/61f8972018f2b01ebb6f1.jpg']
+global.fla = 'https://telegra.ph/file/61f8972018f2b01ebb6f1.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
